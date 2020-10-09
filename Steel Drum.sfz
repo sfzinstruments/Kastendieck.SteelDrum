@@ -1,0 +1,52 @@
+// Steel Drum.sfz
+// Contributed by: M. Kastendieck
+//
+// Converted from the original GigaSampler version and cleaned samples by S. Christian Collins
+// www.schristiancollins.com
+
+<control>
+default_path=samples/
+
+<global>
+loop_mode=one_shot
+
+
+<group> lovel=1  hivel=40  group_volume=-6
+<region> sample=54v1.wav  lokey=45  hikey=54  pitch_keycenter=54  volume=13.923
+<region> sample=55v1.wav  lokey=55  hikey=56  pitch_keycenter=55  volume=22.822
+<region> sample=59v1.wav  lokey=57  hikey=60  pitch_keycenter=59  volume=8.253
+<region> sample=62v1.wav  lokey=61  hikey=63  pitch_keycenter=62  volume=14.82
+<region> sample=66v1.wav  lokey=64  hikey=66  pitch_keycenter=66  volume=16.148
+<region> sample=67v1.wav  lokey=67  hikey=68  pitch_keycenter=67  volume=22.952
+ampeg_attack=0.005
+<region> sample=71v1.wav  lokey=69  hikey=72  pitch_keycenter=71  volume=18.775
+<region> sample=74v1.wav  lokey=73  hikey=75  pitch_keycenter=74  volume=18.381
+<region> sample=78v1.wav  lokey=76  hikey=78  pitch_keycenter=78  volume=12.976
+<region> sample=79v1.wav  lokey=79  hikey=80  pitch_keycenter=79  volume=20.978
+<region> sample=83v1.wav  lokey=81  hikey=84  pitch_keycenter=83  volume=9.339
+
+<group> lovel=41  hivel=95  group_volume=-6
+<region> sample=54v2.wav  lokey=45  hikey=54  pitch_keycenter=54  volume=11.508
+<region> sample=55v2.wav  lokey=55  hikey=56  pitch_keycenter=55  volume=9.679
+<region> sample=59v2.wav  lokey=57  hikey=60  pitch_keycenter=59  volume=7.238
+<region> sample=62v2.wav  lokey=61  hikey=63  pitch_keycenter=62  volume=9.288
+<region> sample=66v2.wav  lokey=64  hikey=66  pitch_keycenter=66  volume=7.322
+<region> sample=67v2.wav  lokey=67  hikey=68  pitch_keycenter=67  volume=12.385
+<region> sample=71v2.wav  lokey=69  hikey=72  pitch_keycenter=71  volume=6.538
+<region> sample=74v2.wav  lokey=73  hikey=75  pitch_keycenter=74  volume=14.471
+<region> sample=78v2.wav  lokey=76  hikey=78  pitch_keycenter=78  volume=9.463
+<region> sample=79v2.wav  lokey=79  hikey=80  pitch_keycenter=79  volume=10.309
+<region> sample=83v2.wav  lokey=81  hikey=84  pitch_keycenter=83  volume=5.666
+
+<group> lovel=96  hivel=127  group_volume=1.5
+<region> sample=54v3.wav  lokey=45  hikey=54  pitch_keycenter=54  volume=-6
+<region> sample=55v3.wav  lokey=55  hikey=56  pitch_keycenter=55  volume=-6
+<region> sample=59v3.wav  lokey=57  hikey=60  pitch_keycenter=59  volume=-5
+<region> sample=62v3.wav  lokey=61  hikey=63  pitch_keycenter=62  volume=-6
+<region> sample=66v3.wav  lokey=64  hikey=66  pitch_keycenter=66  volume=-3
+<region> sample=67v3.wav  lokey=67  hikey=68  pitch_keycenter=67  volume=0
+<region> sample=71v3.wav  lokey=69  hikey=72  pitch_keycenter=71  volume=-1
+<region> sample=74v3.wav  lokey=73  hikey=75  pitch_keycenter=74  volume=-2
+<region> sample=78v3.wav  lokey=76  hikey=78  pitch_keycenter=78  volume=-2
+<region> sample=79v3.wav  lokey=79  hikey=80  pitch_keycenter=79  volume=-4
+<region> sample=83v3.wav  lokey=81  hikey=84  pitch_keycenter=83  volume=-3
